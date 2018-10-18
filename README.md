@@ -1,4 +1,4 @@
-# akaunting
+# Akaunting
 
 Akaunting is an online accounting software that has all the tools you need to manage your money, from invoicing to expense tracking to accounting. Thanks to its modular structure, Akaunting provides an awesome App Store for users and developers.
 
