@@ -13,3 +13,8 @@ Akaunting is an Open Source project with contributors from all over the world. W
 
 Modern
 Akaunting is built with modern technologies such as Laravel, Bootstrap, jQuery, RESTful API etc. Laravel is the best existing PHP framework with thousands of contributors and modern tools such as amazing ORM, painless routing, powerful queue library etc.
+
+
+# How to use this image
+
+This image is meant to be used with [BroadIQ](https://www.broadiq.com).  Please go to BroadIQ and create an account if you don't have one.  Then you can use BroadIQ's tools to deploy the image.
